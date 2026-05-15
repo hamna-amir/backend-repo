@@ -1,0 +1,37 @@
+{
+    "clientName": "Thunder Client",
+    "collectionName": "studentapitest1",
+    "collectionId": "288a2a64-32d5-47f8-806a-bf7053141d43",
+    "dateExported": "2026-05-15T08:11:34.851Z",
+    "version": "1.4",
+    "folders": [],
+    "requests": [
+        {
+            "_id": "7938e351-1956-4591-92fc-57d575cbf257",
+            "colId": "288a2a64-32d5-47f8-806a-bf7053141d43",
+            "containerId": "",
+            "name": "http://localhost:5000/api/students",
+            "url": "http://localhost:5001/api/students",
+            "method": "POST",
+            "sortNum": 10000,
+            "created": "2026-05-15T08:10:46.845Z",
+            "modified": "2026-05-15T08:10:46.845Z",
+            "headers": [],
+            "body": {
+                "type": "json",
+                "raw": [
+                    "{\r",
+                    "  \"rollNumber\": \"20-CS-105\",\r",
+                    "  \"name\": \"hamza\",\r",
+                    "  \"email\": \"hamsa.hassan@university.edu\",\r",
+                    "  \"department\": \"Computer Science\",\r",
+                    "  \"cgpa\": 3.78,\r",
+                    "  \"enrollmentYear\": 2021\r",
+                    "}"
+                ],
+                "form": []
+            }
+        }
+    ],
+    "ref": "MNshR4gHPAxvzlciZyebnLPUjNodVY0eygbOjo1sfGAL0wAL0Jn6OMafOczdJEa1Np4oIy-c2hWK6AT_c_Y8jQ"
+}
